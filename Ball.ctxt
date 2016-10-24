@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ball()
+comment0.text=\r\n\ Constructor\ that\ takes\ no\ arguments\ \r\n
+comment1.params=theRadius\ theColor\ theVelX\ theVelY
+comment1.target=Ball(int,\ java.awt.Color,\ int,\ int)
+comment1.text=\r\n\ Constructor\ that\ takes\ initial\ values\ for\ all\ fields\r\n\ @param\ theRadius\ the\ radius\ to\ use\r\n\ @param\ theColor\ \ the\ color\ to\ use\r\n\ @param\ theVelX\ \ \ the\ amount\ to\ change\ in\ X\ per\ act\r\n\ @param\ theVelY\ \ \ the\ amount\ to\ change\ in\ Y\ per\ act\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Balls\ will\ move\ and\ check\ if\ they\ have\ hit\ a\ brick\ or\ paddle\ or\r\n\ one\ of\ the\ edges\ of\ the\ world\r\n
+comment3.params=theColor
+comment3.target=void\ setColor(java.awt.Color)
+comment3.text=\r\n\ Method\ to\ set\ the\ ball\ color\r\n
+comment4.params=
+comment4.target=void\ updateImage()
+comment4.text=\r\n\ Method\ to\ create\ the\ image\ and\ set\ it\ for\ the\ ball\ \r\n\ If\ you\ change\ the\ ball\ width\ or\ color\ you\ should\ \r\n\ invoke\ this\ again\r\n
+numComments=5
